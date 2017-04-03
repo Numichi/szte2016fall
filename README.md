@@ -4,6 +4,7 @@ This project has systematic homework. The course was held by LogMeIn on Universi
 
 - Git
 - Agile software development method
+- CI/CD
 - RestApi, Postman
 - NoSQL
 - Auth, CSRF, XSS, HTTPS
